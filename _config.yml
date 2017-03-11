@@ -1,0 +1,29 @@
+# Site settings
+title: Programinfo
+subtitle: Сайт преподавателя Орехово-Зуевского железнодорожного техникума имени В.И. Бондаренко Гусева Ивана Евгеньевича
+email: programinfo@yandex.ru
+description: Описание
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city:
+state: TN
+zip_code: 5555
+country:
+phone: (716) 555-5555
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
