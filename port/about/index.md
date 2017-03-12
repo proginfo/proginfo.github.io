@@ -14,7 +14,7 @@ title: О себе
 	<div class="posts">
 		<article>
 			<a href="/port/about/dost-01.jpg" target="_blank" class="image"><img src="/port/about/pix/dost-01.jpg" alt="1сентября диплом открытый урок
-" /></a>pix/
+" /></a>
 		</article>
 		<article>
 			<a href="/port/about/dost-02.jpg" target="_blank" class="image"><img src="/port/about/pix/dost-02.jpg" alt="1сентября сертификат открытый урок
