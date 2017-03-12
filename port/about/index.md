@@ -62,3 +62,46 @@ title: О себе
 		</article>
 	</div>
 </section>
+<section>
+	<header class="major">
+		<h2>Достижения моих студентов</h2>
+	</header>
+	<div class="posts">
+		<article>
+			<a href="/port/about/stud-01.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-01.jpg" alt="1" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-02.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-02.jpg" alt="2" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-03.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-03.jpg" alt="3" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-04.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-04.jpg" alt="4" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-05.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-05.jpg" alt="5" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-06.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-06.jpg" alt="6" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-07.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-07.jpg" alt="7" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-08.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-08.jpg" alt="8" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-09.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-09.jpg" alt="9" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-10.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-10.jpg" alt="10" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-11.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-11.jpg" alt="11" /></a>
+		</article>
+		<article>
+			<a href="/port/about/stud-12.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-12.jpg" alt="12" /></a>
+		</article>
+	</div>
+</section>
