@@ -2,16 +2,16 @@
 title: Proginfo
 subtitle: Сайт преподавателя Орехово-Зуевского железнодорожного техникума имени В.И. Бондаренко Гусева Ивана Евгеньевича
 email: programinfo@yandex.ru
-description: Описание
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city:
-state: TN
-zip_code: 5555
+street_address: ул. Красина д.1
+city: г. Орехово-Зуево
+state:
+zip_code: 142611
 country:
-phone: (716) 555-5555
+phone: +7 (4964) 425-78-08
 
 # Social settings
 500px_url:
