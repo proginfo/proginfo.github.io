@@ -13,7 +13,7 @@ title: О себе
 	<div class="6u$ 12u$(small)">
 		<div class="box alt">
 			<div class="row 50% uniform">
-				<div class="4u"><span class="image fit"><img src="/port/about/me.jpg" alt="Я" /></span></div>
+				<div class="2u"><span class="image fit"><img src="/port/about/me.jpg" alt="Я" /></span></div>
 			</div>
 		</div>
 	</div>
