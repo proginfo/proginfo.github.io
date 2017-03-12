@@ -4,16 +4,25 @@ title: Контакты
 ---
 
 <section>
-	<h3>Техникум на карте</h3>
+	<header class="major">
+		<h2>Схема проезда</h2>
+	</header>
+	<ul class="alt">
+		<li>Автобус: 12, 13, 17.</li>
+		<li>Остановка: "пр. Барышникова".</li>
+		<li>ж/д. станция: Крутое.</li>
+	</ul>
 	<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=izk_Pvy16Qp9bqxb3Yjeh66CXTFGPTLD&amp;width=503&amp;height=646&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
 </section>
 
 <section>
-<h3>Обратная связь</h3>
+	<header class="major">
+		<h2>Обратная связь</h2>
+	</header>
 <form method="" action="#">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			<input type="text" name="demo-name" id="demo-name" value="" placeholder="ФИО" />
 		</div>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
