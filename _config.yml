@@ -27,3 +27,7 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+ # This will require each of these gems automatically.
+ gems: [jekyll-sitemap]
+
