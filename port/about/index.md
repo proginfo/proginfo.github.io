@@ -95,13 +95,13 @@ title: О себе
 			<a href="/port/about/stud-09.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-09.jpg" alt="9" /></a>
 		</article>
 		<article>
-			<a href="/port/about/stud-10.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-10.jpg" alt="10" /></a>
+			<a href="/port/about/stud-10.png" target="_blank" class="image"><img src="/port/about/pix/stud-10.jpg" alt="10" /></a>
 		</article>
 		<article>
-			<a href="/port/about/stud-11.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-11.jpg" alt="11" /></a>
+			<a href="/port/about/stud-11.png" target="_blank" class="image"><img src="/port/about/pix/stud-11.jpg" alt="11" /></a>
 		</article>
 		<article>
-			<a href="/port/about/stud-12.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-12.jpg" alt="12" /></a>
+			<a href="/port/about/stud-12.png" target="_blank" class="image"><img src="/port/about/pix/stud-12.jpg" alt="12" /></a>
 		</article>
 	</div>
 </section>
