@@ -18,6 +18,12 @@ title: Родителям
 </header>
 	<div class="posts">
 		<article>
+			<a href="/par/kubok_texnikuma_po_volejbolu2.jpg" target="_blank" class="image"><img src="/par/pix/kubok_texnikuma_po_volejbolu2.jpg" alt="Кубок техникума по волейболу" /></a>
+		</article>
+		<article>
+			<a href="/par/kubok_texnikuma_po_volejbolu3.jpg" target="_blank" class="image"><img src="/par/pix/kubok_texnikuma_po_volejbolu3.jpg" alt="Кубок техникума по волейболу" /></a>
+		</article>
+		<article>
 			<a href="/par/kubok_texnikuma_po_volejbolu.jpg" target="_blank" class="image"><img src="/par/pix/kubok_texnikuma_po_volejbolu.jpg" alt="Кубок техникума по волейболу" /></a>
 		</article>
 		<article>
