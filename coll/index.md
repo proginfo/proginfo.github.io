@@ -10,15 +10,16 @@ title: Коллегам
 <dl>
 	<dt><h3>1С программирование</h3></dt>
 	<dd>
-		<a href="/coll/plan/1c/programmirovanie_1c_ktp.pdf"> Календарно-тематический план</a>
+		<p><a href="/coll/plan/1c/programmirovanie_1c_ktp.pdf"> Календарно-тематический план</a></p>
 	</dd>
 	<dd>
-		<a href="/coll/plan/1c/1s_rab_pr.pdf"> Рабочая программа</a>
+		<p><a href="/coll/plan/1c/1s_rab_pr.pdf"> Рабочая программа</a></p>
 	</dd>
 	<dd>
-		<a href="/coll/plan/1c/vsr_1s.pdf"> Внеаудиторная самостоятельная работа</a>
+		<p><a href="/coll/plan/1c/vsr_1s.pdf"> Внеаудиторная самостоятельная работа</a></p>
 	</dd>
-		<a href="/coll/plan/1c/kos_1s.pdf"> Контрольно-оценочные средства</a>
+	<dd>
+		<p><a href="/coll/plan/1c/kos_1s.pdf"> Контрольно-оценочные средства</a></p>
 	</dd>
 	<dt><h3>Первое сентября. Фестиваль педагогических идей «Открытый урок»</h3></dt>
 	<dd>
