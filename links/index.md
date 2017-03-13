@@ -37,7 +37,7 @@ title: Ссылки
 		<p><a href="https://htmlacademy.ru" target="_blank">Интерактивный курс по вёрске от HTML Academy</a></p>
 	</dd>
 	<dd>
-		<p><a href="/links/BinaryGame.swf" target="_blank">Преобразование IP адресов. BinaryGame</a></p>
+		<p><a href="/links/binarygame.html" target="_blank">Преобразование IP адресов. BinaryGame</a></p>
 	</dd>
 </dl>
 </section>
