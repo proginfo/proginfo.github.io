@@ -12,6 +12,7 @@ title: Родителям
 </dl>
 </section>
 <section>
+	<hr>
 <header class="major">
 	<h2>Успехи ваших детей</h2>
 </header>
