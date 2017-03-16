@@ -4057,5 +4057,10 @@
 			padding-top: 0;
 		}
 	.img-logo {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+		width: 246px;
+		height: 52px;
 		background-image: url("/assets/images/logo.png");
 	}
