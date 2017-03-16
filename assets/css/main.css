@@ -4056,3 +4056,6 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+	.img-logo {
+		background-image: url("/assets/images/logo.png");
+	}
