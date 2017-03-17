@@ -2,10 +2,25 @@
 layout: page
 title: Круглый стол в ГГТУ
 ---
-
+<section>
 <p>25 ноября 2016 года кафедрой информатики Государственного гуманитарно-технологического университета (ГГТУ) был проведен Круглый стол, посвященный Всемирному дню информации.</p>
-<p><span id="more-4946"></span></p>
 <p>Студенты нашего техникума, Шувалов Владислав и Филин Дмитрий, специальность 09.02.03 «Программирование в компьютерных системах», группа П – 41, куратор Гусев И. Е., поделились своим опытом участия в соревнованиях GOCTF.</p>
-<p><a href="http://pedagog-mo.ru/index.php?option=com_k2&amp;view=item&amp;id=264:professionalnyj-prazdnik-na-fakultete-informatiki-2016&amp;Itemid=130&amp;lang=ru">http://pedagog-mo.ru/index.php?option=com_k2&amp;view=item&amp;id=264:professionalnyj-prazdnik-na-fakultete-informatiki-2016&amp;Itemid=130&amp;lang=ru</a></p>
-<p><a href="http://mogit.ru/wp-content/uploads/2016/12/DSC01974.jpg"><img class="size-thumbnail wp-image-4947 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/DSC01974-150x150.jpg" alt="dsc01974" srcset="http://mogit.ru/wp-content/uploads/2016/12/DSC01974-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/DSC01974-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/12/DSC01979.jpg"><img class="size-thumbnail wp-image-4948 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/DSC01979-150x150.jpg" alt="dsc01979" srcset="http://mogit.ru/wp-content/uploads/2016/12/DSC01979-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/DSC01979-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/12/DSC01986.jpg"><img class="size-thumbnail wp-image-4949 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/DSC01986-150x150.jpg" alt="dsc01986" srcset="http://mogit.ru/wp-content/uploads/2016/12/DSC01986-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/DSC01986-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/12/M4H01981.MP4_snapshot_01.14_2016.12.05_21.56.52.jpg"><img class="size-thumbnail wp-image-4950 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/M4H01981.MP4_snapshot_01.14_2016.12.05_21.56.52-150x150.jpg" alt="m4h01981-mp4_snapshot_01-14_2016-12-05_21-56-52" srcset="http://mogit.ru/wp-content/uploads/2016/12/M4H01981.MP4_snapshot_01.14_2016.12.05_21.56.52-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/M4H01981.MP4_snapshot_01.14_2016.12.05_21.56.52-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0001.jpg"><img class="size-thumbnail wp-image-4951 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0001-150x150.jpg" alt="scan-161128-0001" srcset="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0001-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0001-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0002.jpg"><img class="size-thumbnail wp-image-4952 alignleft" src="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0002-150x150.jpg" alt="scan-161128-0002" srcset="http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0002-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/12/Scan-161128-0002-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a></p>
-
+<p><a href="http://pedagog-mo.ru/index.php?option=com_k2&view=item&id=264:professionalnyj-prazdnik-na-fakultete-informatiki-2016&Itemid=130&lang=ru">Профессиональный праздник на факультете информатики 2016</a></p>
+</section>
+<section>
+	<div class="posts">
+		<article>
+			<a href="/news/confggtu/1.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/1.jpg" alt="1" /></a>
+		</article>
+		<article>
+			<a href="/news/confggtu/2.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/2.jpg" alt="2" /></a>
+		</article>
+		<article>
+			<a href="/news/confggtu/3.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/3.jpg" alt="3" /></a>
+		</article>
+		<article>
+			<a href="/news/confggtu/4.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/4.jpg" alt="4" /></a>
+		</article>
+		
+	</div>
+</section>
