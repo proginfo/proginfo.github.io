@@ -3,10 +3,37 @@ layout: page
 title: Безопасность в сети
 ---
 
-<p>В рамках Всероссийской акции, посвященной безопасности &nbsp;в сети Интернет,&nbsp; 31 октября 2016 года в ГБПОУ МО «Орехово-Зуевский железнодорожный техникум имени В.И. Бондаренко», в корпусе №1 на улице Красина &nbsp;для 2-го , 3-го и 4-го курсов был проведен урок «Безопасность в сети».</p>
-<p>Организаторы – преподаватель Гусев И.Е. и курируемая им &nbsp;группа П-41, &nbsp;специальность 09.02.03, «Программирование в компьютерных системах».</p>
+<section>
+<p>В рамках Всероссийской акции, посвященной безопасности в сети Интернет,31 октября 2016 года в ГБПОУ МО «Орехово-Зуевский железнодорожный техникум имени В.И. Бондаренко», в корпусе №1 на улице Красина для 2-го , 3-го и 4-го курсов был проведен урок «Безопасность в сети».</p>
+<p>Организаторы – преподаватель Гусев И.Е. и курируемая им группа П-41, специальность 09.02.03, «Программирование в компьютерных системах».</p>
 <p>В качестве почётных гостей на мероприятии присутствовали Волкова О. В., зам.директора структурного подразделения, преподаватели Почтенных Е. А. и Бурова Т. Н.</p>
-<p><span id="more-4620"></span></p>
-<p>Были показаны тематические презентации, видео. Ульянова Наталья, Арутюнян Рубен, Филин Илья, Орел Андрей, Шувалов Владислав и Пидсудок Павел рассказали о праздниках IT- специалистов, о возможных опасностях в сети Интернет, способах их предотвращения. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Во второй части мероприятия была проведена викторина на знание правил безопасности в сети. Победила команда 3-го курса, капитан – Горячий Дмитрий. Закончилось всё бурными и продолжительными аплодисментами.</p>
-<p><a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01869.jpg"><img class="size-thumbnail wp-image-4621 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01869-150x150.jpg" alt="dsc01869" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01869-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01869-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01878.jpg"><img class="size-thumbnail wp-image-4622 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01878-150x150.jpg" alt="dsc01878" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01878-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01878-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01879.jpg"><img class="size-thumbnail wp-image-4623 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01879-150x150.jpg" alt="dsc01879" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01879-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01879-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01880.jpg"><img class="size-thumbnail wp-image-4624 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01880-150x150.jpg" alt="dsc01880" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01880-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01880-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01883.jpg"><img class="size-thumbnail wp-image-4625 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01883-150x150.jpg" alt="dsc01883" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01883-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01883-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01891.jpg"><img class="size-thumbnail wp-image-4626 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01891-150x150.jpg" alt="dsc01891" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01891-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01891-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/DSC01899.jpg"><img class="size-thumbnail wp-image-4627 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/DSC01899-150x150.jpg" alt="dsc01899" srcset="http://mogit.ru/wp-content/uploads/2016/11/DSC01899-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/DSC01899-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2016/11/Копия-DSC01901.jpg"><img class="size-thumbnail wp-image-4628 alignleft" src="http://mogit.ru/wp-content/uploads/2016/11/Копия-DSC01901-150x150.jpg" alt="kopiya-dsc01901" srcset="http://mogit.ru/wp-content/uploads/2016/11/Копия-DSC01901-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2016/11/Копия-DSC01901-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150">
-</a></p>
+<p>Были показаны тематические презентации, видео. Ульянова Наталья, Арутюнян Рубен, Филин Илья, Орел Андрей, Шувалов Владислав и Пидсудок Павел рассказали о праздниках IT- специалистов, о возможных опасностях в сети Интернет, способах их предотвращения. Во второй части мероприятия была проведена викторина на знание правил безопасности в сети. Победила команда 3-го курса, капитан – Горячий Дмитрий. Закончилось всё бурными и продолжительными аплодисментами.</p>
+</section>
+<section>
+	<div class="posts">
+		<article>
+			<a href="/news/secweb/01.jpg" target="_blank" class="image"><img src="/news/secweb/pix/01.jpg" alt="01" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/1.jpg" target="_blank" class="image"><img src="/news/secweb/pix/1.jpg" alt="1" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/2.jpg" target="_blank" class="image"><img src="/news/secweb/pix/2.jpg" alt="2" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/3.jpg" target="_blank" class="image"><img src="/news/secweb/pix/3.jpg" alt="3" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/4.jpg" target="_blank" class="image"><img src="/news/secweb/pix/4.jpg" alt="4" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/5.jpg" target="_blank" class="image"><img src="/news/secweb/pix/5.jpg" alt="5" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/6.jpg" target="_blank" class="image"><img src="/news/secweb/pix/6.jpg" alt="6" /></a>
+		</article>
+		<article>
+			<a href="/news/secweb/7.jpg" target="_blank" class="image"><img src="/news/secweb/pix/7.jpg" alt="7" /></a>
+		</article>
+	</div>	
+</section>
