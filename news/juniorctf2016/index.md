@@ -8,7 +8,10 @@ image: /news/juniorctf2016/logo.jpg
 <header class="major">
 	<h2>Поздравляем со 2-м местом в JuniorCTF2016!</h2>
 </header>
-<p>Команда студентов нашего техникума, специальность 09.02.03 «Программирование в компьютерных системах», 1-ый корпус, заняла 2-е место во онлайн — соревнованиях JuniorCTF2016 среди официально зарегистрированных команд студентов вузов и ссузов, уступив команде МФТИ из Москвы. <a href="https://vk.com/juniors_ctf" target="_blank">https://vk.com/juniors_ctf</a> <a href="http://ctfnews.ru/competition/26/news" target="_blank">http://ctfnews.ru/competition/26/news</a></p>
+<p>Команда студентов нашего техникума, специальность 09.02.03 «Программирование в компьютерных системах», 1-ый корпус, заняла 2-е место во онлайн — соревнованиях JuniorCTF2016 среди официально зарегистрированных команд студентов вузов и ссузов, уступив команде МФТИ из Москвы.
+</p>
+	<p><a href="https://vk.com/juniors_ctf" target="_blank">https://vk.com/juniors_ctf</a></p>
+	<p><a href="http://ctfnews.ru/competition/26/news" target="_blank">http://ctfnews.ru/competition/26/news</a></p>
 <p>Благодарим:</p>
 <p>П-41:</p>
 <ul>
