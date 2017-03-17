@@ -63,6 +63,6 @@ title: GoCTF-2016
 
 
 <section>
-	<h5><a href="https://vk.com/goctf">GoCTF — ГБПОУ КСТ</a>Официальная группа соревнований </h5>
-	<h5><a href="http://ctfnews.ru/what-is-ctf/">http://ctfnews.ru/what-is-ctf/</a>Что такое CTF?</h5>
+	<p><a href="https://vk.com/goctf">GoCTF — ГБПОУ КСТ Официальная группа соревнований</a> </p>
+	<p><a href="http://ctfnews.ru/what-is-ctf/">Что такое CTF?</a></p>
 </section>
