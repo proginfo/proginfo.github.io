@@ -13,6 +13,8 @@ title: JuniorCTF2016
 	<p><a href="http://ctfnews.ru/competition/26/news" target="_blank">http://ctfnews.ru/competition/26/news</a></p>
 </section>
 <section>
+	<p></p>
+	<p></p>
 <p>Благодарим:</p>
 <p>П-41:</p>
 <ul>
