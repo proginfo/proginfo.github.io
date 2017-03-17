@@ -3,6 +3,7 @@ layout: page
 title:  Олимпиада профессионального мастерства по специальности «Программирование в компьютерных системах»
 ---
 
+<section>
 <p>1 февраля 2017 года в первом корпусе нашего техникума прошла олимпиада профессионального мастерства по специальности «Программирование в компьютерных системах» среди студентов 3 курса.</p>
 <p>Комплексное задание состояло из двух частей — проверка теоретических знаний и решение практических профессиональных задач.<br>
 	Организовали и провели олимпиаду преподаватели спецдисциплин Почтенных Е.А и Гусев И.Е.<br>
@@ -11,5 +12,25 @@ title:  Олимпиада профессионального мастерств
 	Солдаткин Владислав II место<br>
 	Садков Егор — III место<br>
 	Победители олимпиады были отмечены дипломами и подарками.<br>
-	Поздравляем победителей!</p>
-<p><a href="http://mogit.ru/wp-content/uploads/2017/02/91XkHRhwkhI.jpg"><img class="size-thumbnail wp-image-5344 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/91XkHRhwkhI-150x150.jpg" alt="91XkHRhwkhI" srcset="http://mogit.ru/wp-content/uploads/2017/02/91XkHRhwkhI-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/91XkHRhwkhI-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/DSCN3544.jpg"><img class="size-thumbnail wp-image-5345 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/DSCN3544-150x150.jpg" alt="DSCN3544" srcset="http://mogit.ru/wp-content/uploads/2017/02/DSCN3544-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/DSCN3544-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/DSCN3561.jpg"><img class="size-thumbnail wp-image-5346 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/DSCN3561-150x150.jpg" alt="DSCN3561" srcset="http://mogit.ru/wp-content/uploads/2017/02/DSCN3561-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/DSCN3561-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/DSCN3567.jpg"><img class="size-thumbnail wp-image-5347 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/DSCN3567-150x150.jpg" alt="DSCN3567" srcset="http://mogit.ru/wp-content/uploads/2017/02/DSCN3567-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/DSCN3567-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/lt_9LoTnw-w.jpg"><img class="size-thumbnail wp-image-5348 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/lt_9LoTnw-w-150x150.jpg" alt="lt_9LoTnw-w" srcset="http://mogit.ru/wp-content/uploads/2017/02/lt_9LoTnw-w-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/lt_9LoTnw-w-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/oL8JIm0_8Yk.jpg"><img class="size-thumbnail wp-image-5349 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/oL8JIm0_8Yk-150x150.jpg" alt="oL8JIm0_8Yk" srcset="http://mogit.ru/wp-content/uploads/2017/02/oL8JIm0_8Yk-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/oL8JIm0_8Yk-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a> <a href="http://mogit.ru/wp-content/uploads/2017/02/zqd3Q5n5ZhY.jpg"><img class="size-thumbnail wp-image-5350 alignleft" src="http://mogit.ru/wp-content/uploads/2017/02/zqd3Q5n5ZhY-150x150.jpg" alt="zqd3Q5n5ZhY" srcset="http://mogit.ru/wp-content/uploads/2017/02/zqd3Q5n5ZhY-150x150.jpg 150w, http://mogit.ru/wp-content/uploads/2017/02/zqd3Q5n5ZhY-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="150"></a></p>
+	Поздравляем победителей!
+</p>
+</section>
+<section>
+	<div class="posts">
+		<article>
+			<a href="/news/olimp-feb2017/1.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/1.jpg" alt="1" /></a>
+		</article>
+		<article>
+			<a href="/news/olimp-feb2017/2.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/2.jpg" alt="2" /></a>
+		</article>
+		<article>
+			<a href="/news/olimp-feb2017/3.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/3.jpg" alt="3" /></a>
+		</article>
+		<article>
+			<a href="/news/olimp-feb2017/4.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/4.jpg" alt="4" /></a>
+		</article>
+		<article>
+			<a href="/news/olimp-feb2017/5.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/5.jpg" alt="5" /></a>
+		</article>
+	</div>
+</section>
