@@ -7,7 +7,9 @@ title: Круглый стол в ГГТУ
 <p>Студенты нашего техникума, Шувалов Владислав и Филин Дмитрий, специальность 09.02.03 «Программирование в компьютерных системах», группа П – 41, куратор Гусев И. Е., поделились своим опытом участия в соревнованиях GOCTF.</p>
 <p><a href="http://pedagog-mo.ru/index.php?option=com_k2&view=item&id=264:professionalnyj-prazdnik-na-fakultete-informatiki-2016&Itemid=130&lang=ru" target="_blank">Профессиональный праздник на факультете информатики 2016</a></p>
 </section>
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<div class="posts">
 		<article>
 			<a href="/news/confggtu/1.jpg" target="_blank" class="image thumbnail gallery"><img src="/news/confggtu/pix/1.jpg" alt="1" /></a>
@@ -24,8 +26,3 @@ title: Круглый стол в ГГТУ
 		
 	</div>
 </section>
-<script>
-	$(document).ready(function(){
-		$('.gallery').featherlightGallery();
-	});
-</script>
