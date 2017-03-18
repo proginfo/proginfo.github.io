@@ -24,3 +24,8 @@ title: Круглый стол в ГГТУ
 		
 	</div>
 </section>
+<script>
+	$(document).ready(function(){
+		$('.gallery').featherlightGallery();
+	});
+</script>
