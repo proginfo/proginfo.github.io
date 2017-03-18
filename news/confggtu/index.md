@@ -12,16 +12,16 @@ title: Круглый стол в ГГТУ
 		data-featherlight-filter="a">
 	<div class="posts">
 		<article>
-			<a href="/news/confggtu/1.jpg" target="_blank" class="image thumbnail gallery"><img src="/news/confggtu/pix/1.jpg" alt="1" /></a>
+			<a href="/news/confggtu/1.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/1.jpg" alt="1" /></a>
 		</article>
 		<article>
-			<a href="/news/confggtu/2.jpg" target="_blank" class="image thumbnail gallery"><img src="/news/confggtu/pix/2.jpg" alt="2" /></a>
+			<a href="/news/confggtu/2.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/2.jpg" alt="2" /></a>
 		</article>
 		<article>
-			<a href="/news/confggtu/3.jpg" target="_blank" class="image thumbnail gallery"><img src="/news/confggtu/pix/3.jpg" alt="3" /></a>
+			<a href="/news/confggtu/3.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/3.jpg" alt="3" /></a>
 		</article>
 		<article>
-			<a href="/news/confggtu/4.jpg" target="_blank" class="image thumbnail gallery"><img src="/news/confggtu/pix/4.jpg" alt="4" /></a>
+			<a href="/news/confggtu/4.jpg" target="_blank" class="image"><img src="/news/confggtu/pix/4.jpg" alt="4" /></a>
 		</article>
 		
 	</div>
