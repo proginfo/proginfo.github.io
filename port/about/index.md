@@ -18,7 +18,9 @@ title: О себе
 	</div>
 </div>
 
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<header class="major">
 		<h2>Мои достижения</h2>
 	</header>
