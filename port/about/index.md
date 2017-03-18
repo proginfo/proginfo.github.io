@@ -62,7 +62,9 @@ title: О себе
 		</article>
 	</div>
 </section>
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<header class="major">
 		<h2>Достижения моих студентов</h2>
 	</header>

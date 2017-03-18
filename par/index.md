@@ -11,7 +11,9 @@ title: Родителям
 	<dt><a href="/par/tabel_uspevaemosti_gruppy_p-41.pdf"> Табель успеваемости группы</a></dt>
 </dl>
 </section>
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<hr>
 <header class="major">
 	<h2>Успехи ваших детей</h2>

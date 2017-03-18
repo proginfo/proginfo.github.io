@@ -9,7 +9,9 @@ title: Сдаем нормы ГТО
 <p>Спасибо всем за участие в мероприятии, ведь спорт это жизнь!</p>
 </section>
 
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<div class="posts">
 		<article>
 			<a href="/news/gto/1.jpg" target="_blank" class="image"><img src="/news/gto/pix/1.jpg" alt="1" /></a>

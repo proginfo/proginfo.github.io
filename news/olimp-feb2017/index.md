@@ -15,7 +15,9 @@ title:  Олимпиада профессионального мастерств
 	Поздравляем победителей!
 </p>
 </section>
-<section>
+<section
+		data-featherlight-gallery
+		data-featherlight-filter="a">
 	<div class="posts">
 		<article>
 			<a href="/news/olimp-feb2017/1.jpg" target="_blank" class="image"><img src="/news/olimp-feb2017/pix/1.jpg" alt="1" /></a>
