@@ -393,19 +393,20 @@ $(function(){
 });
 //Slider end
 
-$(document).ready(function(){
-    $(window).scroll(function(){
-        if ($(this).scrollTop() > 100) {
-            $('.scrollToTop').fadeIn();
+$(document).ready(function() {
+    // Show or hide the sticky footer button
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 10) {
+            $('.go-top').fadeIn(10);
         } else {
-            $('.scrollToTop').fadeOut();
+            $('.go-top').fadeOut(10);
         }
     });
 
-    //Click event to scroll to top
-    $('.scrollToTop').click(function(){
-        $('html, body').animate({scrollTop : 0},800);
-        return false;
-    });
+    // Animate the scroll to top
+    $('.go-top').click(function(event) {
+        event.preventDefault();
 
+        $('html, body').animate({scrollTop: 0}, 300);
+    })
 });
