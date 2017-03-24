@@ -1,7 +1,8 @@
 <!-- Header -->
   <header id="header">
-    <a href="{{ '/' | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> {{ site.subtitle }}
-    <ul class="icons img-logo">
+    <a href="{{ '/' | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> {{ site.subtitle }}  </a>
+    <a href="{{ '/' | absolute_url }}">
+      <ul class="icons img-logo">
       <!--<li><a href="{{ '' | absolute_url }}" class="img-logo" ><span class="label">Главная</span></a></li>-->
       {% if site.twitter_url %}
       <li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
