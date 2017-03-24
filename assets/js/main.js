@@ -277,6 +277,7 @@
 	});
 })(jQuery);
 
+//Slider start
 (function($){
     function prefix(el){
         var prefixes = ["Webkit", "Moz", "O", "ms"];
@@ -389,3 +390,4 @@ $(function(){
         fadeDur: 800
     });
 });
+//Slider end

@@ -4064,6 +4064,7 @@
 		background-repeat: no-repeat;
 	}
 
+/* Slider start */
 .fader{
 	position: relative;
 	padding-top: 60%;
@@ -4138,3 +4139,4 @@
 .fader .pager_list li.active{
 	opacity: 1;
 }
+/* Slider end */
