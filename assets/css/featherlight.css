@@ -51,8 +51,8 @@
 
 		/* dimensions: cut off images */
 		overflow: auto;
-		padding: 25px 25px 0;
-		border-bottom: 25px solid transparent;
+		padding: 2px 25px;
+		border-bottom: 0 solid transparent;
 
 		/* dimensions: handling large content */
 		margin-left: 5%;

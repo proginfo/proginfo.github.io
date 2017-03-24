@@ -275,6 +275,7 @@
 				});
 
 	});
+
 })(jQuery);
 
 //Slider start
