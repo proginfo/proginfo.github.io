@@ -523,7 +523,7 @@
 
 	}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 1270px) {
 
 		.row > * {
 			padding: 0 0 0 1.5em;
@@ -2079,7 +2079,7 @@
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1270px) {
 
 			body, input, select, textarea {
 				font-size: 10pt;
@@ -3504,7 +3504,7 @@
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1270px) {
 
 			#main > .inner {
 				padding: 0 4em 0.1em 4em ;
@@ -3703,7 +3703,7 @@
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1270px) {
 
 			#sidebar {
 				box-shadow: 0 0 5em 0 rgba(0, 0, 0, 0.175);
