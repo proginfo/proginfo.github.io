@@ -25,7 +25,7 @@ title: Ссылки
 	<dt>Полезные сайты для студентов:</dt>
 	
 	<dd>
-		<p><a href="http://kmb.ufoctf.ru/hackerdom/main.html" target="_blank"> Курсы по информационной безопастности команды Hackerdom</a></p>
+		<p><a href="http://kmb.ufoctf.ru/hackerdom/main.html" target="_blank"> Курсы по информационной безопасности команды Hackerdom</a></p>
 	</dd>
 	<dd>
 		<p><a href="http://it.mmcs.sfedu.ru/wiki/Страница_курса_Основы_программирования" target="_blank">Курс Основы программирования, ЮФУ</a></p>
@@ -34,7 +34,7 @@ title: Ссылки
 		<p><a href="https://www.codecademy.com/learn/python" target="_blank">Интерактивный курс Python от Codecademy</a></p>
 	</dd>
 	<dd>
-		<p><a href="https://htmlacademy.ru" target="_blank">Интерактивный курс по вёрске от HTML Academy</a></p>
+		<p><a href="https://htmlacademy.ru" target="_blank">Интерактивный курс по вёрстке от HTML Academy</a></p>
 	</dd>
 	<dd>
 		<p><a href="/links/binarygame.html" target="_blank">Преобразование IP адресов. BinaryGame</a></p>
