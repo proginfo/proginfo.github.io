@@ -107,5 +107,8 @@ title: О себе
 		<article>
 			<a href="/port/about/stud-12.jpg" target="_blank" class="image"><img src="/port/about/pix/stud-12.jpg" alt="12" /></a>
 		</article>
+		<article>
+			<a href="/port/about/kips_certificate.png" target="_blank" class="image"><img src="/port/about/pix/kips_certificate.jpg" alt="KIPS" /></a>
+		</article>
 	</div>
 </section>
