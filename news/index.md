@@ -6,11 +6,11 @@ title: Новости
 <section>
 	<div class="posts">
 		<article>
-			<a href="/news/gto/" class="image"><img src="/news/gto/pix/2.jpg" alt="ГТО" /></a>
-			<h3>ГТО</h3>
-			<p>Студенты и сотрудники Орехово-Зуевского железнодорожного техникума имени В.И.Бондаренко во главе с директором Сергеем Сергеевичем Парамоновым приняли участие в сдаче норм ГТО.</p>
+			<a href="/news/kips23_03_17/" class="image"><img src="/news/kips23_03_17/pix/06.jpg" alt="KIPS" /></a>
+			<h3>Kaspersky Interactive Protection Simulation</h3>
+			<p>22 марта 2017 года команда студентов нашего техникума, специальность 09.02.03 «Программирование в компьютерных системах»,  1-ый корпус, приняла участие в онлайн-игре АО «Лаборатория Касперского» Kaspersky Interactive Protection Simulation (KIPS).</p>
 			<ul class="actions">
-				<li><a href="/news/gto/" class="button">Подробнее</a></li>
+				<li><a href="/news/kips23_03_17/" class="button">Подробнее</a></li>
 			</ul>
 		</article>
 		<article>
@@ -51,6 +51,14 @@ title: Новости
 			<p>В рамках Всероссийской акции, посвященной безопасности в сети Интернет, 31 октября 2016 года был проведен урок «Безопасность в сети». <br></p>
 			<ul class="actions">
 				<li><a href="/news/secweb/" class="button">Подробнее</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="/news/gto/" class="image"><img src="/news/gto/pix/2.jpg" alt="ГТО" /></a>
+			<h3>ГТО</h3>
+			<p>Студенты и сотрудники Орехово-Зуевского железнодорожного техникума имени В.И.Бондаренко во главе с директором Сергеем Сергеевичем Парамоновым приняли участие в сдаче норм ГТО.</p>
+			<ul class="actions">
+				<li><a href="/news/gto/" class="button">Подробнее</a></li>
 			</ul>
 		</article>
 	</div>
