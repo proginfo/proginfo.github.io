@@ -31,6 +31,10 @@ title: Международная олимпиада «IT – планета 201
 			<a href="/news/it-planet_2016-17/it-planet_2016-17-foto.jpg" target="_blank" class="image"><img src="/news/it-planet_2016-17/pix/it-planet_2016-17-foto.jpg" alt="1" /></a>
 			<p>Павел Селезнев, студент 3-го курса ГБПОУ МО ОЗЖТ, специальность «Программирование в компьютерных системах», участник Международной олимпиады «IT – планета 2016 – 17», конкурс «Веб-дизайн». </p>
 		</article>
+	</div>
+</section>
+<section>
+	<div class="posts">
 		<article>
 			<a href="/news/it-planet_2016-17/it-planet_2016-17-design.jpg" target="_blank" class="image"><img src="/news/it-planet_2016-17/pix/it-planet_2016-17-design.jpg" alt="2" /></a>
 			<p>Конкурсная работа Павла Селезнева: Сайт первого Чемпионата Мира по собиранию Кубика Рубика.</p>
