@@ -46,6 +46,14 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
+			<a href="/news/it-planet_2016-17/" class="image"><img src="/news/it-planet_2016-17/pix/it-planet_2016-17-foto.jpg" alt="Международная олимпиада «IT – планета 2016 – 17»" /></a>
+			<h3>Международная олимпиада «IT – планета 2016 – 17»</h3>
+			<p>Павел Селезнев, студент 3-го курса, принял участие в юбилейной Международной олимпиаде «IT-Планета 2016/17».</p>
+			<ul class="actions">
+				<li><a href="/news/it-planet_2016-17/" class="button">Подробнее</a></li>
+			</ul>
+		</article>
+		<article>
 			<a href="/news/kips23_03_17/" class="image"><img src="/news/kips23_03_17/pix/04.jpg" alt="KIPS" /></a>
 			<h3>Kaspersky Interactive Protection Simulation</h3>
 			<p>22 марта 2017 года команда студентов нашего техникума, специальность 09.02.03 «Программирование в компьютерных системах»,  1-ый корпус, приняла участие в онлайн-игре АО «Лаборатория Касперского» Kaspersky Interactive Protection Simulation (KIPS).</p>
