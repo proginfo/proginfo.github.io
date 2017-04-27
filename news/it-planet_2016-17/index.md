@@ -12,7 +12,7 @@ title: Международная олимпиада «IT – планета 201
 			<p><a href="http://world-it-planet.org/description/" target="_blank"> http://world-it-planet.org/description/</a></p>
 		</dd>
 		<dd>
-			<p><a href="http://world-it-planet.org/projects/competition_detail.php?ID=62579">правила конкурса «Веб-дизайн»</a></p>
+			<p><a href="http://world-it-planet.org/projects/competition_detail.php?ID=62579" target="_blank">правила конкурса «Веб-дизайн»</a></p>
 		</dd>
 		<dd>
 			<p><a href="https://docs.google.com/spreadsheets/d/1-oBQZApRbvnGzKEzjgQT9WKDZdIt7e7wa-ek_EyQWWQ/edit#gid=1479011836" target="_blank">протокол конкурса «Веб-дизайн»</a></p>
