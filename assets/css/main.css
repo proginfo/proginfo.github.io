@@ -4155,6 +4155,7 @@
 }
 
 figure {
+    border-radius: 0.375em;
 	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 }
@@ -4169,7 +4170,11 @@ figure.slider figure {
 	width: 20%; height: auto;
 	display: inline-block;  position: inherit;
 }
-figure.slider img { width: 100%; height: auto; }
+figure.slider img {
+    border-radius: 0.375em;
+    width: 100%;
+    height: auto;
+}
 figure.slider figure figcaption {
 	position: absolute; bottom: 0;
 	background: rgba(0,0,0,0.4);
