@@ -4156,8 +4156,7 @@
 * {
 	box-sizing: border-box;
 }
-body, figure {
-	margin: 0; background: #101010;
+figure {
 	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 }
