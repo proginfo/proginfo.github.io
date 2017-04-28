@@ -110,5 +110,8 @@ title: О себе
 		<article>
 			<a href="/port/about/kips_certificate.png" target="_blank" class="image"><img src="/port/about/pix/kips_certificate.jpg" alt="KIPS" /></a>
 		</article>
+		<article>
+			<a href="/news/it-planet_2016-17/it-planet_2016-17-cert.jpg" target="_blank" class="image"><img src="/news/it-planet_2016-17/pix/it-planet_2016-17-cert.jpg" alt="IT-Planet" /></a>
+		</article>
 	</div>
 </section>
