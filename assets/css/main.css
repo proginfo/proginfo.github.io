@@ -4160,15 +4160,23 @@ figure {
 	font-weight: 100;
 }
 div#captioned-gallery {
-	width: 100%; overflow: hidden;
+	border-radius: 0.375em;
+	width: 100%;
+	overflow: hidden;
 }
 figure.slider {
-	position: relative; width: 500%;
-	font-size: 0; animation: 30s slidy infinite;
+	border-radius: 0.375em;
+	position: relative;
+	width: 500%;
+	font-size: 0;
+	animation: 30s slidy infinite;
 }
 figure.slider figure {
-	width: 20%; height: auto;
-	display: inline-block;  position: inherit;
+	border-radius: 0.375em;
+	width: 20%;
+	height: auto;
+	display: inline-block;
+	position: inherit;
 }
 figure.slider img {
     border-radius: 0.375em;
