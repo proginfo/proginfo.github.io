@@ -2,15 +2,6 @@
 layout: page
 title: Родителям
 ---
-<section>
-<header class="major">
-	<h2>Документы группы П-41</h2>
-</header>
-<dl>
-	<dt><a href="/par/prognoz_trudoustrojstva_vypusknikov_2016.pdf"> Прогноз трудоустройства выпускников</a></dt>
-	<dt><a href="/par/tabel_uspevaemosti_gruppy_p-41.pdf"> Табель успеваемости группы</a></dt>
-</dl>
-</section>
 <section
 		data-featherlight-gallery
 		data-featherlight-filter="a">
