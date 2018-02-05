@@ -5,35 +5,34 @@
 
 <body>
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+<!-- Wrapper -->
+<div id="wrapper">
 
-        <!-- Main -->
-        <div id="main">
-            <div class="inner">
+	<!-- Main -->
+	<div id="main">
+		<div class="inner">
 
-                {% include header.html %}
+			{% include header.html %}
 
-                <!-- Content -->
-                <section>
-                	<header class="main">
-                		<h1>{{ page.title }}</h1>
-                	</header>
-               
-                  {% if page.image %}
-                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-                  {% endif %}
+			<!-- Content -->
+			<section>
+				<header class="main">
+					<h1>{{ page.title }}</h1>
+				</header>
 
-                {{ content }}
-                </section>
-              </div>
-          </div>
+				{% if page.image %} <span class="image main"><img src="{{ page.image | absolute_url }}" alt=""/></span>
+				{% endif %}
 
-          {% include sidebar.html %}
+				{{ content }}
+			</section>
+		</div>
+	</div>
 
-      </div>
+	{% include sidebar.html %}
 
-      {% include footer.html %}
+</div>
+
+{% include footer.html %}
 
 </body>
 
