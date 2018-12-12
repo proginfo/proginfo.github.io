@@ -39,5 +39,9 @@ title: Ссылки
 	<dd>
 		<p><a href="/links/binarygame.html" target="_blank">Преобразование IP адресов. BinaryGame</a></p>
 	</dd>
+	<dt>Презентации:</dt>
+	<dd>
+		<p><a href="/links/exercise-3" target="_blank">Введение в HTML</a></p>
+	</dd>
 </dl>
 </section>
