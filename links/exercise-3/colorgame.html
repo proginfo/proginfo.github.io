@@ -4,100 +4,103 @@
 	<meta charset="UTF-8">
 	<title>RGB Game</title>
 	<style>
-		@import url('https://fonts.googleapis.com/css?family=Montserrat');
-		
 		body {
-			margin: 0;
 			background-color: #232323;
-			font-family: "Montserrat", "Avenir";
+			font-family: "Arial", Sans-serif,serif;
+			font-size: 62.5%; /*1 em = 10px */
+			margin: 0;
 		}
-		
+
+		#container {
+			max-width: 600px;
+			margin: 0 auto;
+			padding-top: 20px;
+
+		}
 		.square {
 			width: 30%;
-			background: purple;
+			background-color: purple;
 			padding-bottom: 30%;
 			float: left;
 			margin: 1.66%;
-			border-radius: 15%;
-			transition: background 0.6s;
-			-webkit-transition: background 0.6s;
-			-moz-transition: background 0.6s;
+			transition: background .5s;
+			-webkit-transition: background .5s;
+			-moz-transition: background .5s;
+			o-transition: background .5s;
 		}
-		
-		#container {
-			max-width: 600px;
-			margin: 20px auto;
-		}
-		
+
 		h1 {
 			color: white;
-			line-height: 1.1;
-			font-weight: normal;
+			background-color: #2C8E99;
+			font-size: 3.5em;
 			text-align: center;
-			background-color: steelblue;
-			margin: 0;
 			text-transform: uppercase;
-			padding: 20px 0;
+			margin: 0;
+			padding: 10px 0;
 		}
-		
-		#colorDisplay {
-			font-size: 200%;
+
+		#color-display {
+			display: block;
+			font-size: 2em;
 		}
-		
-		#message {
-			display: inline-block;
-			width: 20%;
-		}
-		
+
 		#stripe {
-			background-color: white;
+			background: white;
 			height: 30px;
 			text-align: center;
 			color: black;
 		}
-		
-		.selected {
-			color: #fff;
-			background: steelblue;
-		}
-		
-		button {
-			border: none;
-			background: none;
+
+		#message {
 			text-transform: uppercase;
+			color: #2C8E99;
+			font-size: 1.5em;
+			display: inline-block;
+			width: 20%;
+		}
+
+		button {
+			outline: none;
+			color: #2C8E99;
+			font-family: "Arial", Sans-serif,serif;
+			text-transform: uppercase;
+			font-size: 1.5em;
+			background-color: white;
 			height: 100%;
-			font-weight: 700;
-			color: steelblue;
 			letter-spacing: 1px;
-			font-size: inherit;
 			transition: all 0.3s;
 			-webkit-transition: all 0.3s;
 			-moz-transition: all 0.3s;
-			outline: none;
+			o-transition: all 0.3s;
 		}
-		
+
 		button:hover {
-			color: #fff;
-			background: steelblue;
+			background-color: #2C8E99;
+			color: white;
+		}
+
+		.selected {
+			background-color: #2C8E99;
+			color: white;
+		}
+
+		.square {
+			border-radius: 20%;
+		}
+
+		* {
+			border: 0 solid red;
 		}
 	</style>
 </head>
 <body>
-<h1>
-	RGB
-	<br>
-	<span id="colorDisplay">RGB</span>
-	<br>
-	Game
-</h1>
-
-<div id="stripe">
+<h1>RGB <span id="color-display"></span> Game</h1>
+<div id ="stripe">
 	<button id="reset">Новые цвета</button>
 	<span id="message"></span>
 	<button class="mode">Легко</button>
 	<button class="mode selected">Сложно</button>
 </div>
-
 <div id="container">
 	<div class="square"></div>
 	<div class="square"></div>
@@ -107,118 +110,123 @@
 	<div class="square"></div>
 </div>
 <script>
-	var numberOfSquares = 6;
-	var colors = [];
-	var pickedColor;
-	var squares = document.querySelectorAll(".square");
-	var colorDisplay = document.getElementById("colorDisplay");
-	var messageDisplay = document.querySelector("#message");
-	var h1 = document.querySelector("h1");
-	var resetButton = document.querySelector("#reset");
-	var modeButtons = document.querySelectorAll(".mode");
+    var numSquares = 6;
+    var colors = [];
+    var pickedColor;
 
+    var squares = document.querySelectorAll(".square");
+    var colorDisplay = document.querySelector("#color-display");
+    var messageDisplay = document.querySelector("#message");
+    var h1 = document.querySelector("h1");
+    var resetButton = document.querySelector("#reset");
+    var modeButtons = document.querySelectorAll(".mode");
 
-	init();
+    init();
 
-	function init(){
-		setupModeButtons();
-		setupSquares();
-		reset();
-	}
+    function init() {
+        colorDisplay.textContent = pickedColor;
+        setupSquares();
+        setupMode();
+        reset();
+    }
 
-	function setupModeButtons(){
-		for (var i = 0; i < modeButtons.length; i++){
-			modeButtons[i].addEventListener("click", function(){
-				modeButtons[0].classList.remove("selected");
-				modeButtons[1].classList.remove("selected");
-				this.classList.add("selected");
-				this.textContent === "Easy" ? numberOfSquares = 3: numberOfSquares = 6;
-				reset();
-			});
-		}
-	}
+    resetButton.addEventListener("click", function() {
+        reset();
+    });
 
-	function setupSquares(){
-		for (var i = 0; i < squares.length; i++){
-			//отслеживание кликов на квадратах
-			squares[i].addEventListener("click", function(){
-				// берем цвет с нажатого квадрата
-				var clickedColor = this.style.backgroundColor;
-				// сравниваем с правильным цветом
-				if(clickedColor === pickedColor){
-					messageDisplay.textContent = "Правильно!";
-					resetButton.textContent = "Играть снова?";
-					changeColors(clickedColor);
-					h1.style.backgroundColor = clickedColor;
-				} else {
-					this.style.backgroundColor = "#232323";
-					messageDisplay.textContent = "Ещё раз";
-				}
+    function setupSquares() {
+        for (var i = 0; i < squares.length; i++) {
+            //отслеживание кликов на квадратах
+            squares[i].style.backgroundColor = colors[i];
+            squares[i].addEventListener("click", function() {
+                // берем цвет с нажатого квадрата
+                var clickedColor = this.style.backgroundColor;
+                // сравниваем с правильным цветом
+                if(clickedColor === pickedColor) {
+                    messageDisplay.textContent = "Правильно";
+                    resetButton.textContent = "Играть заново";
+                    changeColors(pickedColor);
+                }
+                else {
+                    this.style.backgroundColor = "#232323";
+                    messageDisplay.textContent = "Ещё раз";
+                }
+            });
+        }
+    }
 
-			});
-		}
-	}
+    function setupMode() {
+        for(var i = 0; i < modeButtons.length; i++) {
+            modeButtons[i].addEventListener("click", function() {
+                for (var i = 0; i < modeButtons.length; i++) {
+                    modeButtons[i].classList.remove("selected");
+                }
+                this.classList.add("selected");
+                if (this.textContent === "Легко") {
+                    numSquares = 3;
+                }
+                else {
+                    numSquares = 6;
+                }
+                reset();
+            });
+        }
+    }
 
-	function reset(){
-		//генерация новых цветов
-		colors = generateRandomColors(numberOfSquares);
-		//pick a new random color from array
-		pickedColor = pickColor();
-		//изменяем background заголовка при совпадении цветов
-		colorDisplay.textContent = pickedColor;
-		resetButton.textContent = "Новые цвета";
-		messageDisplay.textContent = "";
-		// меняем цвета квадратов
-		for(var i = 0; i < squares.length; i++) {
-			if(colors[i]) {
-				squares[i].style.display = "block";
-				squares[i].style.backgroundColor = colors[i];
-			} else {
-				squares[i].style.display = "none";
-			}
-		}
+    function reset() {
+        //генерация новых цветов
+        colors = genRandomColors(numSquares);
+        //Берем новый цвет из массива
+        pickedColor = chooseColor();
+        //изменяем background заголовка при совпадении цветов
+        colorDisplay.textContent = pickedColor;
+        h1.style.backgroundColor = "#2C8E99";
+        resetButton.textContent = "Новые цвета";
+        messageDisplay.textContent = "";
+        // меняем цвета квадратов
+        for (var i = 0; i < squares.length; i++) {
+            if(colors[i]) {
+                squares[i].style.display = "block";
+                squares[i].style.backgroundColor = colors[i];
+            }
+            else {
+                squares[i].style.display = "none";
+            }
+        }
+    }
 
-		h1.style.backgroundColor = "steelblue";
-	}
+    function changeColors(color) {
+        // перебераем квадраты
+        for(var i = 0; i < squares.length; i++) {
+            // изменяем цвет квадрата на сгенерированный
+            squares[i].style.backgroundColor = color;
+            h1.style.backgroundColor = color;
+        }
+    }
 
+    function chooseColor() {
+        var random = Math.floor(Math.random() * colors.length);
+        return colors[random];
+    }
 
-	resetButton.addEventListener("click", function(){
-		reset();
-	});
+    function genRandomColors(num) {
+        var arr = [];
+        for (var i = 0; i < num; i++) {
+            // добавляем в массив случайный цвет
+            arr.push(makeColor());
+        }
+        return arr;
+    }
 
-	function changeColors(color){
-		// цикл по всем квадратам
-		for (var i = 0; i < squares.length; i++) {
-			// изменяем цвет квадрата на сгенерированный
-			squares[i].style.backgroundColor = color;
-		}
-
-	}
-
-	function pickColor() {
-		var random = Math.floor(Math.random() * colors.length);
-		return colors[random];
-	}
-
-	function generateRandomColors(num){
-		var arr = [];
-		for (var i = 0; i < num; i++) {
-			// добавляем в массив случайный цвет
-			arr.push(randomColor())
-		}
-		//return that array
-		return arr;
-	}
-
-	function randomColor(){
-		//Red 0 - 255
-		var r = Math.floor(Math.random() * 256);
-		// Green from 0 - 255
-		var g = Math.floor(Math.random() * 256);
-		//Blue "blue" from 0 - 255
-		var b = Math.floor(Math.random() * 256);
-		return "rgb(" + r + ", " + g + ", " + b + ")";
-	}
+    function makeColor() {
+        //Red 0 - 255
+        var r = Math.floor(Math.random() * 256);
+        //Green 0 - 255
+        var g = Math.floor(Math.random() * 256);
+        //Blue 0 - 255
+        var b = Math.floor(Math.random() * 256);
+        return "rgb(" + r + ", " + g + ", " + b + ")";
+    }
 </script>
 </body>
 </html>
