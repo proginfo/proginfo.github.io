@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>Тесты Основы HTML</title>
+
+	<link rel="stylesheet" href="css/reveal.css">
+	<link rel="stylesheet" href="css/theme/beige.css">
+
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="lib/css/zenburn.css">
+
+	<!-- Printing and PDF exports -->
+	<script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+	</script>
+</head>
+<body>
+<div class="reveal">
+	<div class="slides">
+		<section data-markdown>
+			### Тест в игровой форме на повторение темы «Цвета в WEB»
+			--------------------------------------------
+
+			* [Начать тестирование](#/RGB-game)
+
+			--------------------------------------------
+			####  Контингент:
+			* Студенты младших курсов, с профилирующими предметами ИКТ-цикла
+
+			--------------------------------------------
+
+			##### Гусев Иван Евгеньевич,
+			##### асс. кафедры информатики ГОУ ВО МО  ГГТУ
+
+		</section>
+		<section  data-markdown>
+			#### 📋 Навигация по презентации:
+			* Стрелки на клавиатуре и кнопки в правом нижнем углу переключают слайды
+			* Кнопка Esc показывает карту презентации
+			* Кнопка S переключает в режим докладчика
+			---------------------------------------------
+
+		</section>
+		<section data-markdown>
+			### 📖 Цели:
+			--------------------------------------------
+			*  Закрепить знания по теме «Цвета в WEB»
+
+			--------------------------------------------
+
+			### Обоснование выбора:
+			* Данная презентация служит одновременно практико-ориентированным наглядным пособием
+
+		</section>
+
+		<section id="RGB-game">
+			<div class="stretch">
+				<h3>🎮  По RGB коду угадайте цвет</h3>
+				<iframe frameborder=0 width=95% height=586 marginheight=0 marginwidth=0 scrolling=no src="colorgame.html"></iframe>
+			</div>
+
+		</section>
+
+		<section>
+			<h3>📚 Источники:</h3>
+			<ol>
+				<li> Фреймворк Reveal.js [ <a href="https://revealjs.com/" target="_blank">https://revealjs.com/</a>]</li>
+				<li> Плагин для вставки тестов slickQuiz [ <a href="https://gitlab.com/schaepermeier/reveal.js-quiz"
+				                                              target="_blank">https://gitlab.com/schaepermeier/reveal.js-quiz</a>]</li>
+				<li>MDN web docs [ <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank">https://developer.mozilla.org/ru/docs/Web/HTML</a>]</li>
+			</ol>
+			<hr>
+			<h3> Источники изображений:</h3>
+			<ul>
+				<li> Unicode символы [ <a href="https://unicode-table.com/ru/" target="_blank">https://unicode-table.com/ru/</a>]</li>
+			</ul>
+		</section>
+	</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+
+<script>
+    Reveal.initialize({
+        dependencies: [
+            {src: 'plugin/markdown/marked.js'},
+            {
+                src: 'plugin/quiz/js/quiz.js', async: true, callback: function () {
+                    prepareQuizzes({
+                        skipStartButton: true,
+                        randomSortQuestions :true,
+                        randomSortAnswers: true,
+                        preventUnanswered: true,
+                        checkAnswerText: 'Проверить!',
+                        nextQuestionText:"Вперед",
+                        backButtonText: "Назад",
+                        tryAgainText: "Начать сначала",
+                        questionCountText: 'Вопрос %current из %total',
+                        preventUnansweredText: 'Вы должны выбрать хотя бы один ответ',
+                    });
+                }
+            },
+            {src: 'plugin/markdown/markdown.js'},
+            {src: 'plugin/notes/notes.js', async: true},
+            {
+                src: 'plugin/highlight/highlight.js', async: true, callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            }
+        ]
+    });
+</script>
+</body>
+</html>
