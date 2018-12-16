@@ -1,0 +1,112 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+    margin: 0;
+    padding: 0;
+    font-family: Slack-Lato,appleLogo,sans-serif;
+}
+.wrapper{
+    width: 100%;
+    height: 100%;
+    background-color: #808080;
+}
+.wrapper::after{
+    content: ".";
+    display: block;
+    height: 0;
+    font-size: 0;
+    clear: both;
+    visibility: hidden;
+}
+.menu-wrapper{
+    box-sizing: border-box;
+    float: left;
+    width: 18vw;
+    height: 100%;
+    overflow-y: scroll;
+}
+.menu{
+    box-sizing: border-box;
+    list-style: none;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    font-size: 1.1vw;
+}
+.menu > li{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.menu > li+li{
+    margin-top: 10px;
+}
+.menu > li > a{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    line-height: 1.5em;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: #40AAEF;
+    color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.7);
+    transition: 0.2s all ease 0s;
+}
+.menu > li > a.selected{
+    background-color: #0E7AC4;
+    box-shadow: none;
+    transform: translate3d(0, 3px, 0);
+}
+.container{
+    position: relative;
+    float: left;
+    width: calc(100% - 18vw);
+    height: 100%;
+}
+.tooltip{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 1.1vw;
+    line-height: 1.8em;
+    color: #FFFFFF;
+}
+.tooltip > dt{
+    margin: 0;
+    padding: 0 0.5em;
+    background-color: #40AAEF;
+}
+.tooltip > dd{
+    margin: 0;
+    padding: 0 0.5em 0 2em;
+    background-color: #4958ef;
+}
+.tooltip > dd+dd{
+    border-top: solid 1px #0E7AC4;
+}
+h1 {
+   /* background-color: hsl(44, 100%, 89%); */
+    box-sizing: border-box;
+    display: inline-block;
+    line-height: 1.5em;
+    padding: 5px 20vw;
+    text-decoration: none;
+    background-color: #40AAEF;
+    color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.7);
+    transition: 0.2s all ease 0s;
+    margin: 0;
+
+    width: 100%;
+
+}
