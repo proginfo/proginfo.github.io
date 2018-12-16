@@ -43,5 +43,9 @@ title: Ссылки
 	<dd>
 		<p><a href="/links/exercise-3" target="_blank">Введение в HTML</a></p>
 	</dd>
+	<dt>Наглядные пособия:</dt>
+	<dd>
+		<p><a href="/links/html5-2" target="_blank">Теги HTML5.2</a></p>
+	</dd>
 </dl>
 </section>
