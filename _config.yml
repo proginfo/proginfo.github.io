@@ -1,12 +1,12 @@
 # Site settings
 title: Proginfo
-subtitle: Сайт преподавателя Орехово-Зуевского железнодорожного техникума имени В.И. Бондаренко Гусева Ивана Евгеньевича
+subtitle: Сайт преподавателя Государственного гуманитарно-технологического университета Гусева Ивана Евгеньевича
 email: programinfo@yandex.ru
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: ул. Красина д.1
+street_address: ул. Зелёная д.1
 city: г. Орехово-Зуево
 state:
 zip_code: 142611
